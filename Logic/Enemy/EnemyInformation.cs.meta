@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/Custom/Logic/Enemy/EnemyInformation.cs.meta
+guid: 6915c3ef3d056d941b227cb2dd3b58b2
+========
+guid: 22e815ce54ff10c4cb16c17eb2c27586
+>>>>>>>> origin/main:Assets/_AssetStore/ARPG Effects/Scripts/ARPGFXLightFlicker.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
